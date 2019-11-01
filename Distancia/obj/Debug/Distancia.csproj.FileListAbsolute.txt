@@ -1,0 +1,7 @@
+C:\Users\diego\source\repos\Distancia\Distancia\bin\Debug\Distancia.exe.config
+C:\Users\diego\source\repos\Distancia\Distancia\bin\Debug\Distancia.exe
+C:\Users\diego\source\repos\Distancia\Distancia\bin\Debug\Distancia.pdb
+C:\Users\diego\source\repos\Distancia\Distancia\obj\Debug\Distancia.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Distancia\Distancia\obj\Debug\Distancia.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Distancia\Distancia\obj\Debug\Distancia.exe
+C:\Users\diego\source\repos\Distancia\Distancia\obj\Debug\Distancia.pdb
